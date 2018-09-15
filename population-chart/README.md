@@ -5,8 +5,14 @@
 <a href="https://jquery.com/"><img src="https://icon2.kisspng.com/20180502/heq/kisspng-web-development-jquery-ui-javascript-computer-icon-jqlogo-5ae94a5d3322d7.6814333115252383652095.jpg" width="32"></a>
 <a href="https://d3js.org/"><img src="https://avatars1.githubusercontent.com/u/1562726?s=200&v=4" width="32"></a>
 
-This project consists of drawing a bar chart using [D3.js] with the data obtained from [Awesome JSON Datasets].
+This project consists of drawing a bar chart containing some countries' population number. 
+The chart is drawn using [D3.js], the data, which is from [Awesome JSON Datasets], is obtained 
+using [JQuery] and [Bootstrap] is used to help creating a responsive page and a responsive bar chart.
 
 
 [D3.js]: https://d3js.org/
+
 [Awesome JSON Datasets]: https://github.com/jdorfman/awesome-json-datasets
+
+[Bootstrap]: https://getbootstrap.com/
+[JQuery]: https://jquery.com/
