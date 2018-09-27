@@ -9,10 +9,9 @@ This project consists of drawing a bar chart containing some countries' populati
 The chart is drawn using [D3.js], the data, which is from [Awesome JSON Datasets], is obtained 
 using [JQuery] and [Bootstrap] is used to help creating a responsive page and a responsive bar chart.
 
+To view this project working, just download the files and run the populationChart.html on your browser locally.
 
 [D3.js]: https://d3js.org/
-
 [Awesome JSON Datasets]: https://github.com/jdorfman/awesome-json-datasets
-
 [Bootstrap]: https://getbootstrap.com/
 [JQuery]: https://jquery.com/
